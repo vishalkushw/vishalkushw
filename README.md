@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Vishal kushwah </h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkushwa&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkushwa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkushw&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkushwa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalkushwa" alt="vishalkushwa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalkushw" alt="vishalkushwa" /></a> </p>
 
 - ?? How to reach me **kushwahvishal2391@gmail.com**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vishal kushwah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vishal kushwah" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalkushwa&show_icons=true&locale=en&layout=compact" alt="vishalkushwa" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalkushw&show_icons=true&locale=en&layout=compact" alt="vishalkushwa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkushwa&" alt="vishalkushwa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkushw&" alt="vishalkushwa" /></p>
 
